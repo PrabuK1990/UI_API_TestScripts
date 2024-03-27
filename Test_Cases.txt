@@ -1,0 +1,8 @@
+Enter url
+Click on any product
+Click add to cart
+Click on view cart
+Click on "+" button
+Click Checkout
+Enter all values
+Click continue to shipping
