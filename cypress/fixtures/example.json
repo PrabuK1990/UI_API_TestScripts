@@ -1,0 +1,15 @@
+{
+  "country": "India",
+  "firstname": "Prabu",
+  "lastname": "Kumaravel",
+  "company": "Handle Exception",
+  "address": "New Street",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "zip": "600042",
+  "phone": "9988998899",
+  "email": "test@mail.com",
+  "retypeEmail": "test@mail.com"
+
+}
+
